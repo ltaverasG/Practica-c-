@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\bin\Debug\netcoreapp3.1\EJERCICIOS SWITCH.exe
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\bin\Debug\netcoreapp3.1\EJERCICIOS SWITCH.deps.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\bin\Debug\netcoreapp3.1\EJERCICIOS SWITCH.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\bin\Debug\netcoreapp3.1\EJERCICIOS SWITCH.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\bin\Debug\netcoreapp3.1\EJERCICIOS SWITCH.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\bin\Debug\netcoreapp3.1\EJERCICIOS SWITCH.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\obj\Debug\netcoreapp3.1\EJERCICIOS SWITCH.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\obj\Debug\netcoreapp3.1\EJERCICIOS SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\obj\Debug\netcoreapp3.1\EJERCICIOS SWITCH.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\obj\Debug\netcoreapp3.1\EJERCICIOS SWITCH.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\obj\Debug\netcoreapp3.1\EJERCICIOS SWITCH.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\obj\Debug\netcoreapp3.1\EJERCICIOS SWITCH.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\EJERCICIOS SWITCH\obj\Debug\netcoreapp3.1\EJERCICIOS SWITCH.genruntimeconfig.cache
