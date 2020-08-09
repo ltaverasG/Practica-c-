@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\bin\Debug\netcoreapp3.1\Practica imprimir meses del año.exe
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\bin\Debug\netcoreapp3.1\Practica imprimir meses del año.deps.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\bin\Debug\netcoreapp3.1\Practica imprimir meses del año.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\bin\Debug\netcoreapp3.1\Practica imprimir meses del año.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\bin\Debug\netcoreapp3.1\Practica imprimir meses del año.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\bin\Debug\netcoreapp3.1\Practica imprimir meses del año.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\obj\Debug\netcoreapp3.1\Practica imprimir meses del año.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\obj\Debug\netcoreapp3.1\Practica imprimir meses del año.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\obj\Debug\netcoreapp3.1\Practica imprimir meses del año.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\obj\Debug\netcoreapp3.1\Practica imprimir meses del año.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\obj\Debug\netcoreapp3.1\Practica imprimir meses del año.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\obj\Debug\netcoreapp3.1\Practica imprimir meses del año.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Practica imprimir meses del año\obj\Debug\netcoreapp3.1\Practica imprimir meses del año.genruntimeconfig.cache
