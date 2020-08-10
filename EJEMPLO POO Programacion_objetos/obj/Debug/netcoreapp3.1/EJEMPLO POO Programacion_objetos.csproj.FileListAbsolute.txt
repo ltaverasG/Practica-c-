@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\bin\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.exe
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\bin\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.deps.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\bin\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\bin\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\bin\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\bin\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\obj\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\obj\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\obj\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\obj\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\obj\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\obj\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\EJEMPLO POO Programacion_objetos\obj\Debug\netcoreapp3.1\EJEMPLO POO Programacion_objetos.genruntimeconfig.cache
