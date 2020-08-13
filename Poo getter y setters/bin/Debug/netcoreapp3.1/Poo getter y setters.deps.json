@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Poo getter y setters/1.0.0": {
+        "runtime": {
+          "Poo getter y setters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poo getter y setters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

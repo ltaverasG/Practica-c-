@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\bin\Debug\netcoreapp3.1\Poo getter y setters.exe
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\bin\Debug\netcoreapp3.1\Poo getter y setters.deps.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\bin\Debug\netcoreapp3.1\Poo getter y setters.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\bin\Debug\netcoreapp3.1\Poo getter y setters.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\bin\Debug\netcoreapp3.1\Poo getter y setters.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\bin\Debug\netcoreapp3.1\Poo getter y setters.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\obj\Debug\netcoreapp3.1\Poo getter y setters.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\obj\Debug\netcoreapp3.1\Poo getter y setters.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\obj\Debug\netcoreapp3.1\Poo getter y setters.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\obj\Debug\netcoreapp3.1\Poo getter y setters.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\obj\Debug\netcoreapp3.1\Poo getter y setters.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\obj\Debug\netcoreapp3.1\Poo getter y setters.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Poo getter y setters\obj\Debug\netcoreapp3.1\Poo getter y setters.genruntimeconfig.cache
