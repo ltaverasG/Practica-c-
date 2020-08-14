@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\bin\Debug\netcoreapp3.1\Conceptos Poo.exe
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\bin\Debug\netcoreapp3.1\Conceptos Poo.deps.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\bin\Debug\netcoreapp3.1\Conceptos Poo.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\bin\Debug\netcoreapp3.1\Conceptos Poo.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\bin\Debug\netcoreapp3.1\Conceptos Poo.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\bin\Debug\netcoreapp3.1\Conceptos Poo.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\obj\Debug\netcoreapp3.1\Conceptos Poo.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\obj\Debug\netcoreapp3.1\Conceptos Poo.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\obj\Debug\netcoreapp3.1\Conceptos Poo.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\obj\Debug\netcoreapp3.1\Conceptos Poo.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\obj\Debug\netcoreapp3.1\Conceptos Poo.dll
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\obj\Debug\netcoreapp3.1\Conceptos Poo.pdb
+C:\Users\Joseluis\Documents\C#\c# practica Youtube\Practica-c-\Conceptos Poo\obj\Debug\netcoreapp3.1\Conceptos Poo.genruntimeconfig.cache
